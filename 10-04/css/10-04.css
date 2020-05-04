@@ -1,0 +1,46 @@
+
+.profilio {
+width: 100px;
+}
+
+header p{
+margin: 0;
+}
+
+.bg {
+background-image: url(../IMG/bg_head.jpg);
+background-size: cover;
+    width: 100%;
+}
+
+article p{
+text-indent: 2em;
+}
+
+.letter{
+letter-spacing: .3em;
+}
+
+ .header-font{
+font-family: "Times New Roman";
+letter-spacing: .2em;
+}
+
+.link-color {
+    color: #b30f0f;
+}
+
+footer p {
+    color: white;
+}
+.bg-color-dark {
+background-color: #232323;
+}
+
+.bg-color-black {
+background-color: #101010;
+}
+
+i {
+letter-spacing: 0.8em;
+}
